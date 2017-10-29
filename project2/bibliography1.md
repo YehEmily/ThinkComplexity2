@@ -1,0 +1,6 @@
+# Bibliography 1
+
+### [An Efficient Differential Box-Counting Approach to Compute Fractal Dimension of Image](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=259692)
+Nirupam Sarkar and B. B. Chaudhuri
+
+Sarkar and Chaudhuri introduce existing approaches to computing the fractal dimensions of 2-dimensional images, including the algorithm and implementation of box-counting. They then introduce their own box-counting algorithm, in which boxes are counted in a different way from traditional box-counting algorithms, explaining that their method gives a better approximation to the boxes intersecting the image's intensity surface (which is the difference between space and gray values). Previous box-counting algorithms were unable to capture the fractal dimensions of images with rough or textured surfaces, while Sarkar and Chaudhuri claim that theirs can. After computing the fractal dimension of many images, Sarkar and Chaudhuri find that their model captures even small variations in gray values very well, proving this with various graphs and data tables. They suggest that a minor improvement to their algorithm could allow it to be used in computing the fractal dimensions of 3-dimensional images as well.
