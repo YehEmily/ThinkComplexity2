@@ -1,0 +1,6 @@
+# [Self-organized criticality in a bead pile](https://journals.aps.org/pre/pdf/10.1103/PhysRevE.67.041304)
+
+Rachel M. Costello, K. L. Cruz, Christie Egnatuk, D. T. Jacobs, Matthew C. Krivos, Tim Sir Louis, Rebecca J. Urban,
+and Hanna Wagner
+
+Costello et. al. experiment with conical piles of beads and examine how distributions of avalanches are related to the size and shape of the bases of the piles, by the height from which beads are dropped onto the pile, and by the pattern in which beads are glued to the base of the pile. They find that the number of avalanches that occur can be related to the size of the pile through power law descriptions. When the beads are dropped from a small height, the power law description seems to be consistent with a power law distribution of exponent -1.5, while the other two variables, size and shape of the base and the pattern in which beads are glued to the base, do not seem to affect the distributions of avalanches. Through experiments, Costello et. al. prove that their bead piles exhibit behavior related to self-organized criticality (the plot of P(s), the probability of an avalanche of size s, and s is a straight line, indicating that it is a power law distribution).
